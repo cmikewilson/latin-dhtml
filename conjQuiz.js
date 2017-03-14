@@ -1,9 +1,17 @@
-/* -*- mode: text; indent-tabs-mode: nil; -*- */
-/* conjQuiz.js */
-/* Mike Wilson, cmikewilsonAgmailDcom */
-/* June 20, 2005 */
+/*
+conjQuiz - Quiz Latin Conjugations
 
-/* Anyone may copy and/or modify this software without restriction. */
+Written in 2005 by Mike Wilson, cmikewilson@gmail.com
+
+To the extent possible under law, the author(s) have dedicated all
+copyright and related and neighboring rights to this software to the
+public domain worldwide. This software is distributed without any
+warranty.
+
+You should have received a copy of the CC0 Public Domain Dedication
+along with this software. If not, see
+<http://creativecommons.org/publicdomain/zero/1.0/>.
+*/
 
 var Word;
 var TargetPerson, TargetNumber, TargetConj;

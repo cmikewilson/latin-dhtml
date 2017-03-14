@@ -1,14 +1,18 @@
-/* -*- mode: text; indent-tabs-mode: nil; -*- */
-/* adjQuiz.js */
-/* Mike Wilson, April 15, 2005 */
-/* cmikewilson A gmail D com */
-/* Anyone may copy and/or modify this software without restriction. */
-
 /*
+adjQuiz - Quiz Latin Adjectives
+
+Written in 2005 by Mike Wilson, cmikewilson@gmail.com
+
+To the extent possible under law, the author(s) have dedicated all
+copyright and related and neighboring rights to this software to the
+public domain worldwide. This software is distributed without any
+warranty.
+
+You should have received a copy of the CC0 Public Domain Dedication
+along with this software. If not, see
+<http://creativecommons.org/publicdomain/zero/1.0/>.
 */
 
-/*
-*/
 
 var M=0,F=1,N=2;
 var NOM=0,ACC=1,GEN=2,DAT=3,ABL=4;

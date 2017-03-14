@@ -1,6 +1,17 @@
-/* libRandomTools.js */
-/* Mike Wilson, April 4, 2005 */
-/* Anyone may copy and/or modify this software without restriction. */
+/*
+libRandomTools - choosing a random item from a list
+
+Written in 2005 by Mike Wilson, cmikewilson@gmail.com
+
+To the extent possible under law, the author(s) have dedicated all
+copyright and related and neighboring rights to this software to the
+public domain worldwide. This software is distributed without any
+warranty.
+
+You should have received a copy of the CC0 Public Domain Dedication
+along with this software. If not, see
+<http://creativecommons.org/publicdomain/zero/1.0/>.
+*/
 
 /*
 IMPORT: ()

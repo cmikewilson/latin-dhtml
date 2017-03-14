@@ -1,6 +1,17 @@
-/* libMacrons.js */
-/* Mike Wilson, April 8, 2005 */
-/* Anyone may copy and/or modify this software without restriction */
+/*
+libMacrons - working with macrons
+
+Written in 2005 by Mike Wilson, cmikewilson@gmail.com
+
+To the extent possible under law, the author(s) have dedicated all
+copyright and related and neighboring rights to this software to the
+public domain worldwide. This software is distributed without any
+warranty.
+
+You should have received a copy of the CC0 Public Domain Dedication
+along with this software. If not, see
+<http://creativecommons.org/publicdomain/zero/1.0/>.
+*/
 
 /*
 - There's probably a way to get the current font size.
